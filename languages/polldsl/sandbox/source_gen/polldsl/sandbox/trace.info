@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/5351203823916750322:jetbrains.mps.baseLanguage.structure.TryUniversalStatement" />
+  <root nodeRef="r:1ce7701e-aade-46b6-9609-b26cb9952a4b(polldsl.sandbox)/5724743054850895816">
+    <file name="map_Test.java">
+      <node id="5724743054850895816" at="9,61,10,246" concept="2" />
+      <node id="5724743054850895816" at="10,246,11,26" concept="2" />
+      <node id="2152556657916787501" at="11,26,12,142" concept="1" />
+      <node id="2152556657916759310" at="13,5,14,133" concept="1" />
+      <node id="2152556657916759310" at="14,133,15,26" concept="2" />
+      <node id="2152556657916759310" at="15,26,16,40" concept="2" />
+      <node id="2152556657916759314" at="16,40,17,151" concept="1" />
+      <node id="2152556657916759317" at="17,151,18,151" concept="1" />
+      <node id="2152556657916759321" at="18,151,19,151" concept="1" />
+      <node id="2152556657916759311" at="19,151,20,151" concept="1" />
+      <node id="2152556657916759310" at="20,151,21,55" concept="1" />
+      <node id="2152556657916759349" at="23,5,24,128" concept="1" />
+      <node id="2152556657916759349" at="24,128,25,26" concept="2" />
+      <node id="2152556657916759349" at="25,26,26,40" concept="2" />
+      <node id="2152556657916759406" at="26,40,27,156" concept="1" />
+      <node id="2152556657916759402" at="27,156,28,156" concept="1" />
+      <node id="2152556657916759399" at="28,156,29,156" concept="1" />
+      <node id="2152556657916759351" at="29,156,30,156" concept="1" />
+      <node id="2152556657916759349" at="30,156,31,55" concept="1" />
+      <node id="5724743054850895816" at="32,5,33,107" concept="2" />
+      <node id="5724743054850895816" at="33,107,34,48" concept="2" />
+      <node id="5724743054850895816" at="34,48,35,50" concept="2" />
+      <node id="5724743054850895816" at="35,50,36,56" concept="1" />
+      <node id="5724743054850895816" at="37,68,38,28" concept="1" />
+      <node id="5724743054850895816" at="36,56,39,5" concept="4" />
+      <node id="2152556657916759310" at="12,142,22,5" concept="0" />
+      <node id="2152556657916759349" at="22,5,32,5" concept="0" />
+      <node id="5724743054850895816" at="9,0,41,0" concept="3" trace="main#([Ljava/lang/String;)V" />
+      <scope id="5724743054850895816" at="37,68,38,28" />
+      <scope id="2152556657916759310" at="13,5,21,55">
+        <var name="answers" id="2152556657916759310" />
+        <var name="nazwa_pytania" id="2152556657916759310" />
+      </scope>
+      <scope id="2152556657916759349" at="23,5,31,55">
+        <var name="answers" id="2152556657916759349" />
+        <var name="nazwa_pytania" id="2152556657916759349" />
+      </scope>
+      <scope id="5724743054850895816" at="9,61,39,5">
+        <var name="bot" id="5724743054850895816" />
+        <var name="path" id="5724743054850895816" />
+        <var name="questions" id="5724743054850895816" />
+        <var name="result" id="5724743054850895816" />
+        <var name="top" id="5724743054850895816" />
+      </scope>
+      <scope id="5724743054850895816" at="9,0,41,0">
+        <var name="args" id="5724743054850895816" />
+      </scope>
+      <unit id="5724743054850895816" at="8,0,42,0" name="polldsl.sandbox.map_Test" />
+    </file>
+  </root>
+</debug-info>
+

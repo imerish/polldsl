@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="polldsl.feedback.GeneratedFeedbackAspectFeedback">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.util.stream.Stream" />
+    <classNode dependClassName="jetbrains.mps.core.aspects.feedback.api.FeedbackPerConceptDescriptor" />
+    <classNode dependClassName="org.jetbrains.annotations.NotNull" />
+    <classNode dependClassName="polldsl.feedback.OdpowiedzPojedyncza_FeedbackFeedback" />
+    <classNode extendsClassName="jetbrains.mps.core.aspects.feedback.api.FeedbackAspect" />
+  </dependency>
+  <dependency className="polldsl.feedback.OdpowiedzPojedyncza_FeedbackFeedback">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="java.util.Collections" />
+    <classNode dependClassName="java.util.List" />
+    <classNode dependClassName="java.util.stream.Stream" />
+    <classNode dependClassName="jetbrains.mps.core.aspects.feedback.api.FeedbackProvider" />
+    <classNode dependClassName="jetbrains.mps.core.aspects.feedback.messages.BaseMessageProvider" />
+    <classNode dependClassName="jetbrains.mps.core.aspects.feedback.messages.FailingPropertyConstraintContext" />
+    <classNode dependClassName="jetbrains.mps.core.aspects.feedback.messages.FailingPropertyConstraintProblemId" />
+    <classNode dependClassName="jetbrains.mps.core.aspects.feedback.messages.MessageProvider" />
+    <classNode dependClassName="jetbrains.mps.smodel.adapter.structure.MetaAdapterFactory" />
+    <classNode dependClassName="org.jetbrains.annotations.NotNull" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.language.SAbstractConcept" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.language.SProperty" />
+    <classNode extendsClassName="jetbrains.mps.core.aspects.feedback.api.BaseFeedbackDescriptor" />
+  </dependency>
+</dependenciesRoot>
+

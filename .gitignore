@@ -1,0 +1,4 @@
+# Project exclude paths
+/languages/polldsl/classes_gen/
+/languages/polldsl/generator/classes_gen/
+/languages/polldsl/sandbox/classes_gen/
